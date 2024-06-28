@@ -1,1 +1,21 @@
 /* your code */
+th, td{
+	border-collapse:collapse;
+}
+table{
+	margin: 5px;
+	padding: 5px;
+	text-align: left;
+	width: 100%;
+	
+}
+thead{
+	
+	background-color: darkblue;
+	color: white;
+	font-weight: bold;
+}
+.odd{
+	background-color: grey;
+	color: black;
+}
